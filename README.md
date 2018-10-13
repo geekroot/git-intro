@@ -12,3 +12,6 @@
 
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
+
+### ryuzaki3
+> Why join a navy if you can be a pirate!

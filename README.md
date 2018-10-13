@@ -10,3 +10,5 @@
 ### Piyush Aggarwal
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Yash Handa
+> Together we can change the world, just one random act of kindness at a time. Ron Hall

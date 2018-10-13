@@ -18,3 +18,7 @@
 
 ### Ravi Gupta
 > Time and tide wait for none.
+
+### Bhavesh Gupta
+> The best is no code at all
+

@@ -7,9 +7,31 @@
 
 ## Enter your name and a favourite quote below.
 
-### Piyush Aggarwal
+### brute4s99
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
+### vishal bhardwaj
+> if you change nothing, nothing will change.
+
+### ryuzaki3
+> Why join a navy if you can be a pirate!
+
+### Ravi Gupta
+> Time and tide wait for none.
+
+### Bhavesh Gupta
+> The best is no code at all
+
+### Yash Handa
+> Together we can change the world, just one random act of kindness at a time. Ron Hall
+
+### Shikhar Sharma
+> Try to achieve what you like, otherwise you have to like what you achieve.
+
+### Palash Bauri
+> Fiction Becomes Real As Soon As We Start Believing In Them
+
+### Tanmay Mohan    
+> You mess with the server log you get the glock :)
 
 ### Rohan Maity
 > Deceive the world
-

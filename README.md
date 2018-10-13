@@ -57,3 +57,9 @@
 
 ### Tyler N
 > I'm letting life hit me till it gets tired. Then I'll hit back.
+
+### Giuseppe D'Andrea
+> Talk is cheap. Show me the code.
+
+### Sujeet Kumar
+> Have an attitute of gratitude

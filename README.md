@@ -54,3 +54,6 @@
 
 ### Smiti Khurana
 > hardwork is key to success
+
+### Giuseppe D'Andrea
+> Talk is cheap. Show me the code.

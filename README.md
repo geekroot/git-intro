@@ -10,6 +10,9 @@
 ### brute4s99
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Ravi Gupta
+> Time and tide wait for none.
+
 ### Sahil Bhola
 > Here is a quote : difference between javascript and java is the same as in car and carpet
 

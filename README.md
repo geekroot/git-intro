@@ -22,3 +22,5 @@
 ### Bhavesh Gupta
 > The best is no code at all
 
+### Yash Handa
+> Together we can change the world, just one random act of kindness at a time. Ron Hall

@@ -10,3 +10,5 @@
 ### Piyush Aggarwal
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Shikhar Sharma
+> Try to achieve what you like, otherwise you have to like what you achieve.

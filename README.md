@@ -51,3 +51,6 @@
 
 ### pradhumn panchal
 > Its better to love non-living instead of living.
+
+### Smiti Khurana
+> hardwork is key to success

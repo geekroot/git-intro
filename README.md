@@ -27,3 +27,6 @@
 
 ### Shikhar Sharma
 > Try to achieve what you like, otherwise you have to like what you achieve.
+
+### Sujeet Kumar
+> Have an attitute of gratitude

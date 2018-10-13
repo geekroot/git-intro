@@ -15,3 +15,6 @@
 
 ### ryuzaki3
 > Why join a navy if you can be a pirate!
+
+### Ravi Gupta
+> Time and tide wait for none.

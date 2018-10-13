@@ -46,20 +46,26 @@
 ### Sahil Bhola
 > Here is a quote : difference between javascript and java is the same as in car and carpet
 
+### Shikhar Sharma
+> Try to achieve what you like, otherwise you have to like what you achieve.
+
+### Shubham Pal
+> Nelson Mandela: "It always seems impossible until its done."
+
 ### SHIVAM SHUKLA
 > The fastest way to do many things is to do one thing at a time.
 
 ### Smiti Khurana
 > hardwork is key to success
 
-### Shubham Pal
-> Nelson Mandela: "It always seems impossible until its done."
-
 ### Sujeet Kumar
 > Have an attitute of gratitude
 
-### Shikhar Sharma
-> Try to achieve what you like, otherwise you have to like what you achieve.
+### Tanmay Mohan    
+> You mess with the server log you get the glock :)
+
+### Tyler N
+> I'm letting life hit me till it gets tired. Then I'll hit back.
 
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
@@ -67,11 +73,8 @@
 ### Yash Handa
 > Together we can change the world, just one random act of kindness at a time. Ron Hall
 
-### Tanmay Mohan    
-> You mess with the server log you get the glock :)
 
-### Tyler N
-> I'm letting life hit me till it gets tired. Then I'll hit back.
+
 
 
 

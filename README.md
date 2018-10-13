@@ -27,3 +27,6 @@
 
 ### Shikhar Sharma
 > Try to achieve what you like, otherwise you have to like what you achieve.
+
+### Palash Bauri
+> Fiction Becomes Real As Soon As We Start Believing In Them

@@ -42,3 +42,6 @@
 
 ### Aayushman Choudhary
 > Truth is fiction of the majority
+
+### Shubham Pal
+> Nelson Mandela: "It always seems impossible until its done."

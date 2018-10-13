@@ -49,11 +49,11 @@
 ### Shikhar Sharma
 > Try to achieve what you like, otherwise you have to like what you achieve.
 
-### Shubham Pal
-> Nelson Mandela: "It always seems impossible until its done."
-
 ### SHIVAM SHUKLA
 > The fastest way to do many things is to do one thing at a time.
+
+### Shubham Pal
+> Nelson Mandela: "It always seems impossible until its done."
 
 ### Smiti Khurana
 > hardwork is key to success

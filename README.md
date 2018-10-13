@@ -10,3 +10,5 @@
 ### Piyush Aggarwal
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Palash Bauri
+> Fiction Becomes Real As Soon As We Start Believing In Them

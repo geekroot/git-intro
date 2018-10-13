@@ -10,3 +10,5 @@
 ### Piyush Aggarwal
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Shubham Pal
+> Nelson Mandela: "It always seems impossible until its done."

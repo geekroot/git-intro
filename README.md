@@ -10,3 +10,5 @@
 ### Piyush Aggarwal
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Pratik Joshi
+> Murphy's Law: Things will go wrong in any given situation, if you give them a chance

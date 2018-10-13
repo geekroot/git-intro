@@ -11,4 +11,4 @@
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
 ###Upasana Deka
-> Life happens when your busy planning it.
+> Life happens when you're busy planning it.

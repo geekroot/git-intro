@@ -11,4 +11,4 @@
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
 ### Upasana Deka
-> Life happens when you're busy planning it.
+> John Lennon : Life happens when you're busy making other plans

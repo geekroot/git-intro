@@ -48,3 +48,6 @@
 
 ### SHIVAM SHUKLA
 > The fastest way to do many things is to do one thing at a time.
+
+### pradhumn panchal
+> Its better to love non-living instead of living.

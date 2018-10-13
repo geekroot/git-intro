@@ -74,5 +74,4 @@
 > Have Burning Desire to achieve your goal.
 
 ### Naman Manchanda
-> Those who cannot remember the past are condemned to repeat it.
->                               ~ Dynamic Programming
+> Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.

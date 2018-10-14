@@ -5,7 +5,7 @@
 
 **HACKTOBERFEST TIME**
 
-## Enter your name and a favourite quote below.
+#### Submit your name and a favourite quote below. (Alphabetical Order)
 
 ### Aayushman Choudhary
 > Truth is fiction of the majority
@@ -66,6 +66,9 @@
 
 ### Tyler N
 > I'm letting life hit me till it gets tired. Then I'll hit back.
+
+### Upasana Deka
+> John Lennon : Life happens when you're busy making other plans
 
 ### vishal bhardwaj
 > if you change nothing, nothing will change.

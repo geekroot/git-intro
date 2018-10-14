@@ -50,7 +50,7 @@
 > Try to achieve what you like, otherwise you have to like what you achieve.
 
 ### SHIVAM SHUKLA
-> The fastest way to do many things is to do one thing at a time.
+> Success is not final; failure is not fatal: It is the courage to continue that counts.
 
 ### Shubham Pal
 > Nelson Mandela: "It always seems impossible until its done."

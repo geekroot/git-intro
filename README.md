@@ -10,6 +10,9 @@
 ### brute4s99
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Upasana Deka
+> John Lennon : Life happens when you're busy making other plans
+
 ### Ravi Gupta
 > Time and tide wait for none.
 

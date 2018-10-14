@@ -53,7 +53,7 @@
 > Nelson Mandela: "It always seems impossible until its done."
 
 ### SHIVAM SHUKLA
-> The fastest way to do many things is to do one thing at a time.
+> Success is not final; failure is not fatal: It is the courage to continue that counts.
 
 ### pradhumn panchal
 > Its better to love non-living instead of living.

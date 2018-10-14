@@ -10,6 +10,12 @@
 ### brute4s99
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Ravi Gupta
+> Time and tide wait for none.
+
+### Sahil Bhola
+> Here is a quote : difference between javascript and java is the same as in car and carpet
+
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
 
@@ -30,3 +36,42 @@
 
 ### Palash Bauri
 > Fiction Becomes Real As Soon As We Start Believing In Them
+
+### Tanmay Mohan    
+> You mess with the server log you get the glock :)
+
+### Rohan Maity
+> Deceive the world
+
+### Aditya Agrawal
+> It always seems impossible until it's done
+
+### Aayushman Choudhary
+> Truth is fiction of the majority
+
+### Shubham Pal
+> Nelson Mandela: "It always seems impossible until its done."
+
+### SHIVAM SHUKLA
+> The fastest way to do many things is to do one thing at a time.
+
+### pradhumn panchal
+> Its better to love non-living instead of living.
+
+### Smiti Khurana
+> hardwork is key to success
+
+### Tyler N
+> I'm letting life hit me till it gets tired. Then I'll hit back.
+
+### Giuseppe D'Andrea
+> Talk is cheap. Show me the code.
+
+### Sujeet Kumar
+> Have an attitute of gratitude
+
+### Akanksha Bhasin
+> Have Burning Desire to achieve your goal.
+
+### Naman Manchanda
+> Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.

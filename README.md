@@ -10,6 +10,12 @@
 ### brute4s99
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Ravi Gupta
+> Time and tide wait for none.
+
+### Sahil Bhola
+> Here is a quote : difference between javascript and java is the same as in car and carpet
+
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
 
@@ -48,3 +54,24 @@
 
 ### SHIVAM SHUKLA
 > Success is not final; failure is not fatal: It is the courage to continue that counts.
+
+### pradhumn panchal
+> Its better to love non-living instead of living.
+
+### Smiti Khurana
+> hardwork is key to success
+
+### Tyler N
+> I'm letting life hit me till it gets tired. Then I'll hit back.
+
+### Giuseppe D'Andrea
+> Talk is cheap. Show me the code.
+
+### Sujeet Kumar
+> Have an attitute of gratitude
+
+### Akanksha Bhasin
+> Have Burning Desire to achieve your goal.
+
+### Naman Manchanda
+> Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.

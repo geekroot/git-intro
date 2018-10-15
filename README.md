@@ -21,7 +21,6 @@
 
 ### sandeepcoder097
 > there's always a room for improvement
-> the greatest fear of our's is we ourselves...
 
 ### ryuzaki3
 > Why join a navy if you can be a pirate!

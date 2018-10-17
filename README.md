@@ -22,6 +22,9 @@
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
 
+### sandeepcoder097
+> there's always a room for improvement
+
 ### Vidit Varshney
 > I am different , That's my Difference .....
 
@@ -81,3 +84,4 @@
 
 ### Naman Manchanda
 > Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.
+

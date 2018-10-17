@@ -10,6 +10,9 @@
 ### brute4s99
 > Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
 
+### Upasana Deka
+> John Lennon : Life happens when you're busy making other plans
+
 ### Ravi Gupta
 > Time and tide wait for none.
 
@@ -21,6 +24,9 @@
 
 ### sandeepcoder097
 > there's always a room for improvement
+
+### Vidit Varshney
+> I am different , That's my Difference .....
 
 ### ryuzaki3
 > Why join a navy if you can be a pirate!
@@ -56,7 +62,7 @@
 > Nelson Mandela: "It always seems impossible until its done."
 
 ### SHIVAM SHUKLA
-> The fastest way to do many things is to do one thing at a time.
+> Success is not final; failure is not fatal: It is the courage to continue that counts.
 
 ### pradhumn panchal
 > Its better to love non-living instead of living.

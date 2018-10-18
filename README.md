@@ -37,6 +37,9 @@
 ### Ravi Gupta
 > Time and tide wait for none.
 
+### RAHUL MISHRA
+> Life is not about  finding yourself  it is creating yourself .
+
 ### Rohan Maity
 > Deceive the world
 
@@ -78,9 +81,7 @@
 
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
-=======
-### vishal bhardwaj
-> if you change nothing, nothing will change.
 
 ### Yash Handa
 > Together we can change the world, just one random act of kindness at a time. Ron Hall
+

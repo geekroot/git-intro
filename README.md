@@ -5,37 +5,13 @@
 
 **HACKTOBERFEST TIME**
 
-## Enter your name and a favourite quote below.
+#### Submit your name and a favourite quote below. (Alphabetical Order)
 
 ### Aayushman Choudhary
 > Truth is fiction of the majority
 
 ### Aditya Agrawal
 > It always seems impossible until it's done
-
-### brute4s99
-> Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
-
-### Upasana Deka
-> John Lennon : Life happens when you're busy making other plans
-
-### Ravi Gupta
-> Time and tide wait for none.
-
-### Sahil Bhola
-> Here is a quote : difference between javascript and java is the same as in car and carpet
-
-### vishal bhardwaj
-> if you change nothing, nothing will change.
-
-### sandeepcoder097
-> there's always a room for improvement
-
-### Vidit Varshney
-> I am different , That's my Difference .....
-
-### ryuzaki3
-> Why join a navy if you can be a pirate!
 
 ### Akanksha Bhasin
 > Have Burning Desire to achieve your goal.
@@ -70,6 +46,9 @@
 ### Sahil Bhola
 > Here is a quote : difference between javascript and java is the same as in car and carpet
 
+### sandeepcoder097
+> there's always a room for improvement
+
 ### Shikhar Sharma
 > Try to achieve what you like, otherwise you have to like what you achieve.
 
@@ -91,11 +70,17 @@
 ### Tyler N
 > I'm letting life hit me till it gets tired. Then I'll hit back.
 
+### Upasana Deka
+> John Lennon : Life happens when you're busy making other plans
+
+### Vidit Varshney
+> I am different , That's my Difference .....
+
+### vishal bhardwaj
+> if you change nothing, nothing will change.
+=======
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
 
 ### Yash Handa
 > Together we can change the world, just one random act of kindness at a time. Ron Hall
-
-### Naman Manchanda
-> Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.

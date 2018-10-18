@@ -99,3 +99,6 @@
 
 ### Naman Manchanda
 > Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.
+
+### RAHUL MISHRA
+> Life is not about  finding yourself  it is creating yourself .

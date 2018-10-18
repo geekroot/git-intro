@@ -46,6 +46,9 @@
 ### Sahil Bhola
 > Here is a quote : difference between javascript and java is the same as in car and carpet
 
+### sandeepcoder097
+> there's always a room for improvement
+
 ### Shikhar Sharma
 > Try to achieve what you like, otherwise you have to like what you achieve.
 
@@ -69,6 +72,9 @@
 
 ### Upasana Deka
 > John Lennon : Life happens when you're busy making other plans
+
+### Vidit Varshney
+> I am different , That's my Difference .....
 
 ### vishal bhardwaj
 > if you change nothing, nothing will change.

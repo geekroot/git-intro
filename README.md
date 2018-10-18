@@ -78,6 +78,9 @@
 
 ### vishal bhardwaj
 > if you change nothing, nothing will change.
+=======
+### vishal bhardwaj
+> if you change nothing, nothing will change.
 
 ### Yash Handa
 > Together we can change the world, just one random act of kindness at a time. Ron Hall

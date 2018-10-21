@@ -28,6 +28,9 @@
 ### Naman Manchanda
 > Those who cannot remember the past are condemned to repeat it. ~ Dynamic Programming.
 
+### Nikita Jain
+> It always takes longer than you expect, even when you take into account Hofstader's Law
+
 ### Palash Bauri
 > Fiction Becomes Real As Soon As We Start Believing In Them
 

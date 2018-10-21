@@ -40,6 +40,9 @@
 ### RAHUL MISHRA
 > Life is not about  finding yourself  it is creating yourself .
 
+### RAJAT GOUR
+> no pain no gain.
+
 ### Rohan Maity
 > Deceive the world
 

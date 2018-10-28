@@ -7,6 +7,13 @@
 
 #### Submit your name and a favourite quote below. (Alphabetical Order)
 
+
+### Piyush Aggarwal
+> Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law
+
+### Pratik Joshi
+> Murphy's Law: Things will go wrong in any given situation, if you give them a chance
+=======
 ### Aayushman Choudhary
 > Truth is fiction of the majority
 
@@ -90,4 +97,5 @@
 
 ### Yash Handa
 > Together we can change the world, just one random act of kindness at a time. Ron Hall
+
 

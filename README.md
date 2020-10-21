@@ -88,3 +88,6 @@
 ### Yash Handa
 > Together we can change the world, just one random act of kindness at a time. Ron Hall
 
+### Rajat
+> "The way to get started is to quit talking and begin doing." -Walt Disney
+
